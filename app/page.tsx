@@ -5,6 +5,7 @@ export default function Home() {
     <>
       <h1>TESTING</h1>
       <Link href="/posts">POSTINGAN PAGE</Link>
+      <br />
       <Link href="/albums">ALBUMS PAGE</Link>
     </>
   );

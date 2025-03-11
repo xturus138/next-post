@@ -1,5 +1,5 @@
 const Albums = () => {
-  return <div>ALBUMS PAGE</div>;
+  return <div className="bg-teal-400">ALBUMS PAGE</div>;
 };
 
 export default Albums;
